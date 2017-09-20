@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Score Board App</string>
+    <string name="initial_team_a_score">00</string>
+    <string name="initial_team_b_score">00</string>
+    <string name="plus_1_point_a">+1 Point</string>
+    <string name="plus_1_point_b">+1 Point</string>
+
+
+    <string name="plus_3_point_a">+3 Point</string>
+    <string name="plus_3_point_b">+3 Point</string>
+
+
+    <string name="plus_5_point_a">+5 Point</string>
+    <string name="plus_5_point_b">+5 Point</string>
+
+    <string name="reset_name">Reset Me</string>
+
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+</resources>
